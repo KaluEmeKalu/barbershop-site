@@ -2,7 +2,7 @@ import random
 from fabric.contrib.files import append, exists
 from fabric.api import cd, env, local, run
 
-REPO_URL = 'git@github.com:KaluEmeKalu/barbershop-site.git'  
+REPO_URL = 'https://github.com/KaluEmeKalu/barbershop-site.git'  
 
 
 def _get_latest_source():
