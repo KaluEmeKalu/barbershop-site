@@ -3,28 +3,28 @@
 ## Create our Nginx virtual host
 
 cat ./deploy_tools/nginx.template.conf \
-    | sed "s/DOMAIN/superlists.bigballerbook.com/g" \
-    | sudo tee /etc/nginx/sites-available/superlists.bigballerbook.com
+    | sed "s/DOMAIN/leviona-barbershop.100djangoapps.com/g" \
+    | sudo tee /etc/nginx/sites-available/leviona-barbershop.100djangoapps.com
 
 ## Activate File With symlink
 
 sudo ln -s /etc/nginx/sites-available/superlists.bigballerbook.com \
-    /etc/nginx/sites-enabled/superlists.bigballerbook.com
+    /etc/nginx/sites-enabled/leviona-barbershop.100djangoapps.com
 
 # Gunicorn
 
 ## Write Systemd Service
 
 cat ./deploy_tools/gunicorn-systemd.template.service \
-    | sed "s/DOMAIN/superlists.bigballerbook.com/g" \
-    | sudo tee /etc/systemd/system/gunicorn-superlists.bigballerbook.com.service
+    | sed "s/DOMAIN/leviona-barbershop.100djangoapps.com/g" \
+    | sudo tee /etc/systemd/system/gunicorn-leviona-barbershop.100djangoapps.com
 
 # Start Both Services
 
 sudo systemctl daemon-reload
 sudo systemctl reload nginx
-sudo systemctl enable gunicorn-superlists.bigballerbook.com
-sudo systemctl start gunicorn-superlists.bigballerbook.com
+sudo systemctl enable gunicorn-leviona-barbershop.100djangoapps.com
+sudo systemctl start gunicorn-leviona-barbershop.100djangoapps.com
 
 # Git Tag
 

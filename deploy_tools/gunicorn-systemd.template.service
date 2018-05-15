@@ -9,7 +9,7 @@ EnvironmentFile=/home/kalu/sites/DOMAIN/.env
 
 ExecStart=/home/kalu/sites/DOMAIN/virtualenv/bin/gunicorn \
     --bind unix:/tmp/DOMAIN.socket \
-    dashboard.wsgi:application
+    appointment.wsgi:application
 
 [Install]
 WantedBy=multi-user.target
