@@ -1,0 +1,15 @@
+[Unit]
+Description=Gunicorn server for DOMAIN
+
+[Service]
+Restart=on-failure
+User=kalu
+WorkingDirectory=/home/kalu/sites/DOMAIN
+EnvironmentFile=/home/kalu/sites/DOMAIN/.env
+
+ExecStart=/home/kalu/sites/DOMAIN/virtualenv/bin/gunicorn \
+    --bind unix:/tmp/DOMAIN.socket \
+    dashboard.wsgi:application
+
+[Install]
+WantedBy=multi-user.target

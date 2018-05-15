@@ -1,0 +1,587 @@
+1526291509757	geckodriver	INFO	geckodriver 0.20.1
+1526291509765	geckodriver	INFO	Listening on 127.0.0.1:55418
+1526291510772	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/w4/9j0yjwzx5xbff84n4ksh2wz80000gn/T/rust_mozprofile.kj0Bexoc6vSd"
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-14 09:51:52.115 plugin-container[16775:9789197] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x873f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526291512560	Marionette	INFO	Listening on port 55425
+1526291512684	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-14 09:51:53.077 plugin-container[16776:9789302] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526292227392	geckodriver	INFO	geckodriver 0.20.1
+1526292227398	geckodriver	INFO	Listening on 127.0.0.1:55527
+1526292228410	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/w4/9j0yjwzx5xbff84n4ksh2wz80000gn/T/rust_mozprofile.cLlZRu0qzw1f"
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-14 10:03:49.622 plugin-container[16930:9796325] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7807, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526292230065	Marionette	INFO	Listening on port 55535
+1526292230094	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-14 10:03:50.551 plugin-container[16931:9796429] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7a3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526292232569	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///Applications/Firefox.app/Contents/Resources/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///Applications/Firefox.app/Contents/Resources/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+GeckoDriver.prototype.quit()@driver.js:3300
+despatch()@server.js:293
+execute()@server.js:267
+onPacket/<()@server.js:242
+onPacket()@server.js:241
+_onJSONObjectReady/<()@transport.js:500
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1526292254646	geckodriver	INFO	geckodriver 0.20.1
+1526292254651	geckodriver	INFO	Listening on 127.0.0.1:55595
+1526292255670	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/w4/9j0yjwzx5xbff84n4ksh2wz80000gn/T/rust_mozprofile.HF2r6qMEQjp8"
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-14 10:04:16.847 plugin-container[16942:9796876] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7b3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526292257249	Marionette	INFO	Listening on port 55603
+1526292257333	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-14 10:04:17.758 plugin-container[16943:9796980] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8903, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1526292309960	geckodriver	INFO	geckodriver 0.20.1
+1526292309966	geckodriver	INFO	Listening on 127.0.0.1:55708
+1526292310982	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/w4/9j0yjwzx5xbff84n4ksh2wz80000gn/T/rust_mozprofile.YVPkm2Et8wN1"
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-14 10:05:12.158 plugin-container[16957:9797675] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7b03, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526292312551	Marionette	INFO	Listening on port 55715
+1526292312653	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-14 10:05:13.066 plugin-container[16958:9797776] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8643, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1526292326206	geckodriver	INFO	geckodriver 0.20.1
+1526292326212	geckodriver	INFO	Listening on 127.0.0.1:55782
+1526292327227	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/w4/9j0yjwzx5xbff84n4ksh2wz80000gn/T/rust_mozprofile.ZkCizwRTBudl"
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-14 10:05:28.391 plugin-container[16967:9798075] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x790b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526292328797	Marionette	INFO	Listening on port 55789
+1526292328894	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-14 10:05:29.313 plugin-container[16968:9798179] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7f3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1526292367046	geckodriver	INFO	geckodriver 0.20.1
+1526292367052	geckodriver	INFO	Listening on 127.0.0.1:55855
+1526292368078	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/w4/9j0yjwzx5xbff84n4ksh2wz80000gn/T/rust_mozprofile.hXJDjdK1M3ef"
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-14 10:06:09.272 plugin-container[16979:9798688] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x843f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526292369656	Marionette	INFO	Listening on port 55862
+1526292369735	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-14 10:06:10.185 plugin-container[16980:9798782] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8643, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1526292381726	geckodriver	INFO	geckodriver 0.20.1
+1526292381732	geckodriver	INFO	Listening on 127.0.0.1:55930
+1526292382748	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/w4/9j0yjwzx5xbff84n4ksh2wz80000gn/T/rust_mozprofile.MI4XzUEiLmd3"
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-14 10:06:23.907 plugin-container[16988:9799199] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x780b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526292384340	Marionette	INFO	Listening on port 55938
+1526292384417	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-14 10:06:24.834 plugin-container[16989:9799294] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8a43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1526292406703	geckodriver	INFO	geckodriver 0.20.1
+1526292406708	geckodriver	INFO	Listening on 127.0.0.1:56009
+1526292407724	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/w4/9j0yjwzx5xbff84n4ksh2wz80000gn/T/rust_mozprofile.jvXL9bFqQ6oC"
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-14 10:06:48.918 plugin-container[16999:9799725] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x773b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526292409303	Marionette	INFO	Listening on port 56016
+1526292409388	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-14 10:06:49.835 plugin-container[17000:9799831] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8403, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1526292665583	geckodriver	INFO	geckodriver 0.20.1
+1526292665588	geckodriver	INFO	Listening on 127.0.0.1:56112
+1526292666602	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/w4/9j0yjwzx5xbff84n4ksh2wz80000gn/T/rust_mozprofile.iPG9kSEaiymO"
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-14 10:11:07.879 plugin-container[17042:9802313] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x823f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526292668290	Marionette	INFO	Listening on port 56119
+1526292668367	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-14 10:11:08.799 plugin-container[17043:9802398] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x823f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1526292684659	geckodriver	INFO	geckodriver 0.20.1
+1526292684664	geckodriver	INFO	Listening on 127.0.0.1:56188
+1526292685679	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/w4/9j0yjwzx5xbff84n4ksh2wz80000gn/T/rust_mozprofile.5dPaZfLlfhaS"
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-14 10:11:26.872 plugin-container[17051:9802796] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x733f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526292687289	Marionette	INFO	Listening on port 56195
+1526292687367	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-14 10:11:27.786 plugin-container[17053:9802903] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7643, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1526293047504	geckodriver	INFO	geckodriver 0.20.1
+1526293047509	geckodriver	INFO	Listening on 127.0.0.1:56298
+1526293048524	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/w4/9j0yjwzx5xbff84n4ksh2wz80000gn/T/rust_mozprofile.TIVenHLV1I0J"
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-14 10:17:29.752 plugin-container[17130:9807043] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x823f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526293050158	Marionette	INFO	Listening on port 56305
+1526293050183	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-14 10:17:30.664 plugin-container[17131:9807149] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x730b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1526361983466	geckodriver	INFO	geckodriver 0.20.1
+1526361983475	geckodriver	INFO	Listening on 127.0.0.1:60027
+1526361984486	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/w4/9j0yjwzx5xbff84n4ksh2wz80000gn/T/rust_mozprofile.2ACknmVCrG2a"
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-15 05:26:25.733 plugin-container[20620:10345799] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7c03, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526361986165	Marionette	INFO	Listening on port 60034
+1526361986243	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-15 05:26:26.680 plugin-container[20621:10345901] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x703f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526363157998	geckodriver	INFO	geckodriver 0.20.1
+1526363158004	geckodriver	INFO	Listening on 127.0.0.1:60346
+1526363159019	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/w4/9j0yjwzx5xbff84n4ksh2wz80000gn/T/rust_mozprofile.4tNmVCP1QJb6"
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-15 05:46:00.195 plugin-container[20853:10362220] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526363160615	Marionette	INFO	Listening on port 60354
+1526363160697	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-15 05:46:01.150 plugin-container[20854:10362318] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x813f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 20853, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+1526363293174	geckodriver	INFO	geckodriver 0.20.1
+1526363293180	geckodriver	INFO	Listening on 127.0.0.1:60499
+1526363294196	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/w4/9j0yjwzx5xbff84n4ksh2wz80000gn/T/rust_mozprofile.dfDfySrMck5V"
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-15 05:48:15.381 plugin-container[20937:10365382] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7c3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526363295820	Marionette	INFO	Listening on port 60511
+1526363295860	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-15 05:48:16.304 plugin-container[20938:10365479] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x6f3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1526363310738	geckodriver	INFO	geckodriver 0.20.1
+1526363310744	geckodriver	INFO	Listening on 127.0.0.1:60586
+1526363311760	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/w4/9j0yjwzx5xbff84n4ksh2wz80000gn/T/rust_mozprofile.5lNOKhLoGdAd"
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-15 05:48:32.927 plugin-container[20943:10365861] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7c43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526363313302	Marionette	INFO	Listening on port 60594
+1526363313322	Marionette	WARN	TLS certificate errors will be ignored for this session
+1526363313386	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///Applications/Firefox.app/Contents/Resources/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///Applications/Firefox.app/Contents/Resources/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+GeckoDriver.prototype.quit()@driver.js:3300
+despatch()@server.js:293
+execute()@server.js:267
+onPacket/<()@server.js:242
+onPacket()@server.js:241
+_onJSONObjectReady/<()@transport.js:500
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 159: Error: Data is not ready.
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 159: Error: Data is not ready.
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 159: Error: Data is not ready.
+JavaScript error: resource://pdf.js/PdfJs.jsm, line 247: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Data is not ready." {file: "resource://gre/modules/JSONFile.jsm" line: 159}]'[JavaScript Error: "Data is not ready." {file: "resource://gre/modules/JSONFile.jsm" line: 159}]' when calling method: [nsIHandlerService::store]
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 408: Error: OS.File has been shut down. Rejecting post to DirectoryIterator_prototype_close
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 408: Error: OS.File has been shut down. Rejecting post to DirectoryIterator_prototype_close
+JavaScript error: resource://gre/modules/ProfileAge.jsm, line 174: Error: Unable to fetch oldest profile entry: Error: OS.File has been shut down. Rejecting request to DirectoryIterator_prototype_next
+JavaScript error: resource://gre/modules/ProfileAge.jsm, line 174: Error: Unable to fetch oldest profile entry: Error: OS.File has been shut down. Rejecting request to DirectoryIterator_prototype_next
+1526363313888	geckodriver	INFO	geckodriver 0.20.1
+1526363313895	geckodriver	INFO	Listening on 127.0.0.1:60629
+1526363314910	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/w4/9j0yjwzx5xbff84n4ksh2wz80000gn/T/rust_mozprofile.zvr7XCXP4geG"
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-15 05:48:36.076 plugin-container[20946:10366041] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x850b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526363316453	Marionette	INFO	Listening on port 60636
+1526363316475	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-15 05:48:36.990 plugin-container[20947:10366133] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x883f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1526363377396	geckodriver	INFO	geckodriver 0.20.1
+1526363377402	geckodriver	INFO	Listening on 127.0.0.1:60707
+1526363378414	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/w4/9j0yjwzx5xbff84n4ksh2wz80000gn/T/rust_mozprofile.OaELkKLNT8lW"
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-15 05:49:39.583 plugin-container[20964:10367353] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x803f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526363379966	Marionette	INFO	Listening on port 60714
+1526363379977	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-15 05:49:40.516 plugin-container[20966:10367451] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x873b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1526363387590	geckodriver	INFO	geckodriver 0.20.1
+1526363387596	geckodriver	INFO	Listening on 127.0.0.1:60778
+1526363388609	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/w4/9j0yjwzx5xbff84n4ksh2wz80000gn/T/rust_mozprofile.oJL9wPGSBBdq"
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-15 05:49:49.764 plugin-container[20971:10367743] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x713f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526363390194	Marionette	INFO	Listening on port 60786
+1526363390285	Marionette	WARN	TLS certificate errors will be ignored for this session
+1526363390336	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///Applications/Firefox.app/Contents/Resources/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///Applications/Firefox.app/Contents/Resources/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+GeckoDriver.prototype.quit()@driver.js:3300
+despatch()@server.js:293
+execute()@server.js:267
+onPacket/<()@server.js:242
+onPacket()@server.js:241
+_onJSONObjectReady/<()@transport.js:500
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1526363390840	geckodriver	INFO	geckodriver 0.20.1
+1526363390846	geckodriver	INFO	Listening on 127.0.0.1:60823
+1526363391861	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/w4/9j0yjwzx5xbff84n4ksh2wz80000gn/T/rust_mozprofile.0UrZG8XzGheu"
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-15 05:49:53.028 plugin-container[20974:10367926] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x813f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526363393440	Marionette	INFO	Listening on port 60831
+1526363393523	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-15 05:49:53.953 plugin-container[20975:10368017] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7143, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1526363448982	geckodriver	INFO	geckodriver 0.20.1
+1526363448988	geckodriver	INFO	Listening on 127.0.0.1:60905
+1526363450004	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/w4/9j0yjwzx5xbff84n4ksh2wz80000gn/T/rust_mozprofile.lXvbeQTgHNXK"
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-15 05:50:51.199 plugin-container[20991:10369125] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x843f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526363451592	Marionette	INFO	Listening on port 60913
+1526363451669	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-15 05:50:52.119 plugin-container[20992:10369219] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x863f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1526363458391	geckodriver	INFO	geckodriver 0.20.1
+1526363458397	geckodriver	INFO	Listening on 127.0.0.1:60977
+1526363459411	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/w4/9j0yjwzx5xbff84n4ksh2wz80000gn/T/rust_mozprofile.bFBOjKcdwnbJ"
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-15 05:51:00.567 plugin-container[20996:10369573] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7f3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526363460980	Marionette	INFO	Listening on port 60985
+1526363461089	Marionette	WARN	TLS certificate errors will be ignored for this session
+1526363461140	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///Applications/Firefox.app/Contents/Resources/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///Applications/Firefox.app/Contents/Resources/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+GeckoDriver.prototype.quit()@driver.js:3300
+despatch()@server.js:293
+execute()@server.js:267
+onPacket/<()@server.js:242
+onPacket()@server.js:241
+_onJSONObjectReady/<()@transport.js:500
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1526363461655	geckodriver	INFO	geckodriver 0.20.1
+1526363461661	geckodriver	INFO	Listening on 127.0.0.1:61022
+1526363462674	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/w4/9j0yjwzx5xbff84n4ksh2wz80000gn/T/rust_mozprofile.zWzysEDQpEO7"
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-15 05:51:03.851 plugin-container[20999:10369744] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x823f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526363464262	Marionette	INFO	Listening on port 61029
+1526363464340	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-15 05:51:04.760 plugin-container[21000:10369831] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8843, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1526363532225	geckodriver	INFO	geckodriver 0.20.1
+1526363532231	geckodriver	INFO	Listening on 127.0.0.1:61098
+1526363533244	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/w4/9j0yjwzx5xbff84n4ksh2wz80000gn/T/rust_mozprofile.ZFQY7j3WYgY3"
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-15 05:52:14.414 plugin-container[21017:10371001] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x793f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526363534831	Marionette	INFO	Listening on port 61106
+1526363534912	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-15 05:52:15.334 plugin-container[21018:10371091] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x883f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1526363541216	geckodriver	INFO	geckodriver 0.20.1
+1526363541222	geckodriver	INFO	Listening on 127.0.0.1:61170
+1526363542236	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/w4/9j0yjwzx5xbff84n4ksh2wz80000gn/T/rust_mozprofile.3AeSCmatlDXU"
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-15 05:52:23.396 plugin-container[21022:10371380] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7a3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526363543813	Marionette	INFO	Listening on port 61178
+1526363543896	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-15 05:52:24.327 plugin-container[21023:10371478] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8803, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1526363585035	geckodriver	INFO	geckodriver 0.20.1
+1526363585047	geckodriver	INFO	Listening on 127.0.0.1:61246
+1526363586054	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/w4/9j0yjwzx5xbff84n4ksh2wz80000gn/T/rust_mozprofile.WXfgcu3PsKGb"
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-15 05:53:07.222 plugin-container[21036:10372367] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8303, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526363587601	Marionette	INFO	Listening on port 61254
+1526363587616	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-15 05:53:08.145 plugin-container[21037:10372464] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8a3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1526363593820	geckodriver	INFO	geckodriver 0.20.1
+1526363593832	geckodriver	INFO	Listening on 127.0.0.1:61322
+1526363594840	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/w4/9j0yjwzx5xbff84n4ksh2wz80000gn/T/rust_mozprofile.hAVOtp6848ti"
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-15 05:53:15.991 plugin-container[21041:10372783] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7b0b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526363596393	Marionette	INFO	Listening on port 61329
+1526363596406	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-15 05:53:16.929 plugin-container[21042:10372873] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7003, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526363619083	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1526363619088	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1526373783416	geckodriver	INFO	geckodriver 0.20.1
+1526373783422	geckodriver	INFO	Listening on 127.0.0.1:62075
+1526373784438	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/w4/9j0yjwzx5xbff84n4ksh2wz80000gn/T/rust_mozprofile.fCqr1NVOnNxo"
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-15 08:43:05.658 plugin-container[21921:10422835] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8703, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526373786018	Marionette	INFO	Listening on port 62083
+1526373786098	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-15 08:43:06.559 plugin-container[21922:10422955] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x883f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1526374020213	geckodriver	INFO	geckodriver 0.20.1
+1526374020218	geckodriver	INFO	Listening on 127.0.0.1:62166
+1526374021233	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/w4/9j0yjwzx5xbff84n4ksh2wz80000gn/T/rust_mozprofile.F76NocO5uvCD"
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-15 08:47:02.415 plugin-container[21966:10424923] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x873f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526374022767	Marionette	INFO	Listening on port 62174
+1526374022793	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-15 08:47:03.312 plugin-container[21967:10425035] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8703, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1526374027908	geckodriver	INFO	geckodriver 0.20.1
+1526374027915	geckodriver	INFO	Listening on 127.0.0.1:62238
+1526374028925	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/w4/9j0yjwzx5xbff84n4ksh2wz80000gn/T/rust_mozprofile.Tw9aNTCW0zo3"
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-15 08:47:10.094 plugin-container[21970:10425301] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x840b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526374030481	Marionette	INFO	Listening on port 62245
+1526374030493	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-15 08:47:11.018 plugin-container[21971:10425390] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x853f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1526374149218	geckodriver	INFO	geckodriver 0.20.1
+1526374149224	geckodriver	INFO	Listening on 127.0.0.1:62315
+1526374150238	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/w4/9j0yjwzx5xbff84n4ksh2wz80000gn/T/rust_mozprofile.vBYmlcqLZtZG"
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-15 08:49:11.404 plugin-container[21997:10426556] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7e0b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526374151784	Marionette	INFO	Listening on port 62323
+1526374151806	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-15 08:49:12.321 plugin-container[21999:10426652] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8403, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1526374234368	geckodriver	INFO	geckodriver 0.20.1
+1526374234374	geckodriver	INFO	Listening on 127.0.0.1:62408
+1526374235389	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/w4/9j0yjwzx5xbff84n4ksh2wz80000gn/T/rust_mozprofile.WNwiRuDCYLRc"
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-15 08:50:36.550 plugin-container[22020:10427644] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x853f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526374236950	Marionette	INFO	Listening on port 62415
+1526374236953	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-15 08:50:37.471 plugin-container[22021:10427738] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7943, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526374279360	geckodriver	INFO	geckodriver 0.20.1
+1526374279366	geckodriver	INFO	Listening on 127.0.0.1:62500
+1526374280383	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/w4/9j0yjwzx5xbff84n4ksh2wz80000gn/T/rust_mozprofile.JDQlLivtZDaH"
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-15 08:51:21.559 plugin-container[22033:10428335] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7b3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526374281976	Marionette	INFO	Listening on port 62508
+1526374282054	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-15 08:51:22.481 plugin-container[22034:10428436] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x863f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526374339821	geckodriver	INFO	geckodriver 0.20.1
+1526374339826	geckodriver	INFO	Listening on 127.0.0.1:62613
+1526374340844	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/w4/9j0yjwzx5xbff84n4ksh2wz80000gn/T/rust_mozprofile.Cp7j1xht2bfS"
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-15 08:52:22.019 plugin-container[22051:10429333] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8203, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526374342423	Marionette	INFO	Listening on port 62621
+1526374342521	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-15 08:52:22.937 plugin-container[22053:10429442] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7a03, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1526374698737	geckodriver	INFO	geckodriver 0.20.1
+1526374698743	geckodriver	INFO	Listening on 127.0.0.1:62755
+1526374699757	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/w4/9j0yjwzx5xbff84n4ksh2wz80000gn/T/rust_mozprofile.Xr5ZqPZjOAfF"
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-15 08:58:20.932 plugin-container[22113:10434408] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7b0b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526374701322	Marionette	INFO	Listening on port 62762
+1526374701419	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-15 08:58:21.860 plugin-container[22114:10434509] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8903, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1526374900677	geckodriver	INFO	geckodriver 0.20.1
+1526374900682	geckodriver	INFO	Listening on 127.0.0.1:62860
+1526374901697	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/w4/9j0yjwzx5xbff84n4ksh2wz80000gn/T/rust_mozprofile.W6mKhgfu4Nup"
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-15 09:01:42.866 plugin-container[22148:10436238] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x763f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526374903255	Marionette	INFO	Listening on port 62867
+1526374903268	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-15 09:01:43.785 plugin-container[22149:10436335] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8507, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1526374968708	geckodriver	INFO	geckodriver 0.20.1
+1526374968714	geckodriver	INFO	Listening on 127.0.0.1:62947
+1526374969727	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/w4/9j0yjwzx5xbff84n4ksh2wz80000gn/T/rust_mozprofile.bU9nB4s5QfjD"
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-15 09:02:50.897 plugin-container[22166:10437132] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7c03, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526374971289	Marionette	INFO	Listening on port 62955
+1526374971386	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-15 09:02:51.819 plugin-container[22167:10437231] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8b3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1526375512763	geckodriver	INFO	geckodriver 0.20.1
+1526375512769	geckodriver	INFO	Listening on 127.0.0.1:63162
+1526375513783	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/w4/9j0yjwzx5xbff84n4ksh2wz80000gn/T/rust_mozprofile.DT65TojYfpz1"
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-15 09:11:54.985 plugin-container[22267:10445024] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x773f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526375515398	Marionette	INFO	Listening on port 63169
+1526375515439	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-15 09:11:55.911 plugin-container[22268:10445118] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x863f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-15 09:12:36.753 plugin-container[22311:10445734] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x883f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-15 09:12:39.918 plugin-container[22330:10445930] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x763f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-15 09:13:05.526 plugin-container[22335:10446811] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x823f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-15 09:13:11.389 plugin-container[22337:10446949] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x6f03, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526375596927	geckodriver	INFO	geckodriver 0.20.1
+1526375596933	geckodriver	INFO	Listening on 127.0.0.1:63277
+1526375597948	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/w4/9j0yjwzx5xbff84n4ksh2wz80000gn/T/rust_mozprofile.9LAvkFio2ay3"
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+1526375629460	geckodriver	INFO	geckodriver 0.20.1
+1526375629466	geckodriver	INFO	Listening on 127.0.0.1:63298
+1526375630477	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/w4/9j0yjwzx5xbff84n4ksh2wz80000gn/T/rust_mozprofile.k0f7GS3yL7lf"
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-15 09:13:51.647 plugin-container[22356:10447590] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8403, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526375632070	Marionette	INFO	Listening on port 63305
+1526375632141	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-15 09:13:52.570 plugin-container[22357:10447688] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x6f43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1526375648167	geckodriver	INFO	geckodriver 0.20.1
+1526375648172	geckodriver	INFO	Listening on 127.0.0.1:63391
+1526375649190	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/w4/9j0yjwzx5xbff84n4ksh2wz80000gn/T/rust_mozprofile.n0Ve8yjX3upq"
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-15 09:14:10.350 plugin-container[22365:10448106] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7b3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526375650764	Marionette	INFO	Listening on port 63398
+1526375650854	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from /Users/kalukalu/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+2018-05-15 09:14:11.274 plugin-container[22366:10448205] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x763f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
