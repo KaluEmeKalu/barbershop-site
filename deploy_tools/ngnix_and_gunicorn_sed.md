@@ -8,7 +8,7 @@ cat ./deploy_tools/nginx.template.conf \
 
 ## Activate File With symlink
 
-sudo ln -s /etc/nginx/sites-available/superlists.bigballerbook.com \
+sudo ln -s /etc/nginx/sites-available/leviona-barbershop.100djangoapps.com \
     /etc/nginx/sites-enabled/leviona-barbershop.100djangoapps.com
 
 # Gunicorn
@@ -17,7 +17,7 @@ sudo ln -s /etc/nginx/sites-available/superlists.bigballerbook.com \
 
 cat ./deploy_tools/gunicorn-systemd.template.service \
     | sed "s/DOMAIN/leviona-barbershop.100djangoapps.com/g" \
-    | sudo tee /etc/systemd/system/gunicorn-leviona-barbershop.100djangoapps.com
+    | sudo tee /etc/systemd/system/gunicorn-leviona-barbershop.100djangoapps.com.service
 
 # Start Both Services
 
